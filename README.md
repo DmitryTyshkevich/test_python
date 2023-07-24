@@ -12,10 +12,10 @@ Mean max min and all others are deviation values in degrees
 - Create requirements.txt and virtual env
 - Create class for drawing plots
 - Create function “draw_plots”
-→ reads json file passed as parameter as a pandas dataframe
-→ draws plot for comparing different columns
-→ saves plots in a folder called “plots”
-→ returns paths to all plots
+  - reads json file passed as parameter as a pandas dataframe
+  - draws plot for comparing different columns
+  - saves plots in a folder called “plots”
+  - returns paths to all plots
 - Create jupyter notebook called Notebook.ipynb in the root directory to call and visualize our
 plots
 
