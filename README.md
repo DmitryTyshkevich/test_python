@@ -1,4 +1,4 @@
-# Выполнрение тестового задания
+# Выполнение тестового задания
 ## Описание задания:
 - Download pandas json :
 https://ai-process-sandy.s3.eu-west-1.amazonaws.com/purge/deviation.json
